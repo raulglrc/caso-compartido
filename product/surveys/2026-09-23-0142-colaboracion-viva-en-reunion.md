@@ -14,6 +14,7 @@ status: ready
 - **Respondentes objetivo:** Team Leads y mandos medios que conducen reuniones de Teams de más de 5 participantes en cuentas Business Premium, ≥100 licencias, sector tecnología, operación en 3+ países y facturación >USD 100M (segmento del brief; ajuste de persona: Camila Reyes Aguirre). Los criterios de cuenta **no se preguntan**: se filtran antes de enviar con los datos de la cuenta (lista del portal e inclusión del aviso in-product). La encuesta solo filtra lo que la cuenta no sabe: el rol y si conduce reuniones.
 - **Duración estimada:** 2 preguntas de screening + 11 preguntas + bloque de opt-in, ~5 min.
 - **Nota de diseño:** todavía no hay entrevistas reales. Las opciones de motivo (Q4–Q5) salen del texto del portal, de los comentarios post-reunión, de las personas sintéticas y del research de competidores (hipótesis de hábito/madurez del especialista). Por eso toda lista lleva "Otro" y hay un abierto (Q10): si "Otro" supera ~15% en Q5, la lista estaba incompleta y hay que leerlo antes de sacar porcentajes.
+- **Cambio del 2026-09-23 (antes de lanzar), tras el pretest sintético de la guía con Agnieszka Wróbel:** se agregaron a Q6 la opción "nuestra organización las bloquea o no permite usarlas" y a Q4 la opción "la sesión la organizaba otra empresa y usamos su herramienta". El ensayo mostró dos casos que la encuesta no captaba: se trabaja dentro de Teams porque Seguridad bloqueó Miro, y se sale de Teams porque la herramienta es del cliente. Es un ajuste del instrumento, no evidencia.
 
 ## Screening
 
@@ -64,6 +65,7 @@ Q3. En las últimas 4 semanas, cuando el grupo trabajó en algo en vivo, ¿con q
 Q4. ¿Cuáles de estos motivos pesaron la **última vez** que salieron de Teams para trabajar en vivo? [opción múltiple]
    - Había al menos un invitado externo sin cuenta de nuestra organización
    - El tablero o documento ya existía en esa otra herramienta
+   - La sesión la organizaba otra empresa (cliente o proveedor) y usamos su herramienta
    - El equipo ya trabaja ahí; nadie propuso otra opción
    - Necesitábamos algo que Teams no tiene (plantillas, votación, integraciones, tamaño del lienzo, etc.)
    - No sabía dónde encontrar o cómo abrir la opción de Teams
@@ -79,9 +81,10 @@ Q6. ¿Tu organización o tu equipo paga una licencia de Miro, Mural o FigJam? [o
    - Sí, una licencia corporativa de la organización
    - Sí, la paga mi equipo o área con su propio presupuesto
    - La usamos en su versión gratuita
+   - No: nuestra organización las bloquea o no permite usarlas
    - No usamos ninguna de esas herramientas
    - No sé
-   > Objetivo: O4
+   > Objetivo: O4. También separa a quienes trabajan dentro de Teams **por elección** de quienes lo hacen **porque la alternativa está bloqueada**. Para O1 y para elegir contradictores, son dos grupos distintos.
 
 Q7. ¿Abriste alguna vez el Whiteboard de Teams en una reunión que conducías? [opción única]
    - Sí, en las últimas 4 semanas
@@ -126,7 +129,7 @@ R3. ¿Aceptarías una conversación de 30 minutos sobre cómo trabajan en vivo e
 
 R4. Si respondiste que sí, ¿cómo podemos contactarte? [abierta, opcional, se muestra solo si R3 = sí]
 
-> Uso interno: en `/analyze-survey`, se entrevista primero a los opt-ins que **contradicen** la creencia de valor: Q1 = Ninguna, Q3 = Nunca, o Q8 = "lo usamos hasta terminar".
+> Uso interno: en `/analyze-survey`, se entrevista primero a los opt-ins que **contradicen** la creencia de valor: Q1 = Ninguna, Q3 = Nunca, o Q8 = "lo usamos hasta terminar". Entre los contradictores, separa a quienes marcaron en Q6 "nuestra organización las bloquea" de los demás, y entrevista a los dos grupos. Que alguien no salga de Teams porque tiene prohibido salir no demuestra que lo nativo le alcance.
 
 ## Distribución
 

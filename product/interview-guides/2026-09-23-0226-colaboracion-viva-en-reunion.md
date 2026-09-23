@@ -34,7 +34,9 @@ W1. Para empezar, cuéntame de tu equipo: ¿quiénes son y dónde están?
 
 Q1. Cuéntame de la última reunión que condujiste donde el grupo tuvo que armar, decidir o dibujar algo juntos. ¿Qué pasó en el momento en que tuvieron que trabajar eso juntos?
    - *Sondeos:* ¿qué había que resolver? ¿Dónde lo hicieron? ¿Quién escribía o dibujaba, y quién miraba? ¿Cómo terminó? ¿Qué pasó con lo que decidieron después de la reunión?
-   - *Sondeo sobre lo nativo (siempre):* ¿alguna vez intentaron hacer algo así dentro de Teams? ¿Qué pasó esa vez? *(Si dice que nunca, no insistas: es un dato para la segunda mitad de la creencia.)*
+   - *Sondeo sobre lo nativo (siempre, según dónde pasó el episodio):*
+     - *Si el episodio fue fuera de Teams:* ¿alguna vez intentaron hacer algo así dentro de Teams? ¿Qué pasó esa vez? *(Si dice que nunca, no insistas: es un dato para la segunda mitad de la creencia.)*
+     - *Si el episodio ya fue dentro de Teams* (Whiteboard, Loop, un archivo de Office): no preguntes si lo intentaron, porque ya lo contó. Sondea ese mismo episodio: ¿qué funcionó y qué no? ¿Hubo algo que no pudieron hacer ahí? ¿Es siempre así?
    - *Si el participante contradice la creencia (en la encuesta: Q1 = Ninguna o Q3 = Nunca):* reemplaza la pregunta por "La última vez que tu equipo tuvo que diseñar o decidir algo en conjunto, ¿cómo lo hicieron? ¿Dónde pasó?". Es el caso más valioso: no lo empujes hacia la reunión.
    - *Si describe el episodio sin fricción:* "¿Cuánto tardaron en tenerlo listo? ¿Hubo algo que tuvieran que rehacer o pasar a otro lado?". Sin sugerir que debería haber sido difícil.
 
@@ -51,8 +53,12 @@ Q2. Piensa en la última vez que el grupo quiso trabajar algo juntos en vivo dur
 
 Q3. *(a) Si el episodio de Q1 fue en una herramienta fuera de Teams:* En esa reunión terminaron en [herramienta]. ¿Cómo se llegó a usar esa herramienta ese día?
 *(b) Si no (fue Jira, pantalla compartida o algo dentro de Teams):* Piensa en la última vez que, para trabajar algo juntos en una reunión, usaron algo fuera de Teams. ¿Cómo se llegó a esa herramienta ese día?
-   - *Sondeos:* ¿quién la propuso? ¿El tablero o documento ya existía? ¿Alguien sugirió otra opción? ¿Desde cuándo el equipo la usa? ¿Cómo empezó a usarla el equipo?
-   - *Si nombra Whiteboard u otra opción de Teams:* ¿Qué pasó la última vez que la usaron? ¿La volvieron a usar? (La telemetría dice que la mitad de las veces se cierra antes de 2 minutos: busca el episodio, no la opinión.)
+*(Si ese episodio fuera de Teams ya salió en Q2:* no lo vuelvas a pedir. Di "En esa sesión con [herramienta] que me contaste…" y sigue con los sondeos.)
+   - *Sondeos:* ¿quién la propuso? ¿El tablero o documento ya existía? ¿Alguien sugirió otra opción? ¿Desde cuándo el equipo la usa? ¿Cómo empezó a usarla el equipo? *(Si la sesión era de otra empresa, no preguntes quién la propuso ni si alguien sugirió otra opción: pregunta cómo entraron y qué podían hacer ahí.)*
+   - *Si nombra Whiteboard u otra opción de Teams:* primero averigua si la usan seguido o si la probaron y la dejaron.
+     - *Si la usan habitualmente:* ¿Cómo empezó el equipo a usarla? ¿Qué pasa cuando no alcanza para lo que necesitan? No preguntes "¿la volvieron a usar?".
+     - *Si la probaron y la dejaron:* ¿Qué pasó la última vez que la usaron? ¿La volvieron a usar? (La telemetría dice que la mitad de las veces se cierra antes de 2 minutos: busca el episodio, no la opinión.)
+   - *Si aparece que la herramienta la decidió o la bloqueó otra persona* (Seguridad, IT, el cliente): ¿Quién lo decidió? ¿Desde cuándo? ¿Cómo trabajaban antes? ¿Qué cambió en las reuniones? No preguntes qué harían si pudieran elegir: pide lo que pasó.
    - *Si nunca usó lo nativo:* ¿Qué sabes de lo que Teams tiene para eso? No se lo expliques ni lo muestres.
    - *Si aparece una duda sobre lo nativo* ("no sé si pueden entrar", "no sé si funciona"): ¿de dónde sale esa duda? ¿Alguna vez lo probaste o viste a alguien probarlo? ¿Qué pasó?
    - *No preguntes* "¿por qué no usas Whiteboard?": suena a reproche y genera justificaciones. Pregunta por el episodio.
@@ -62,7 +68,7 @@ Q3. *(a) Si el episodio de Q1 fue en una herramienta fuera de Teams:* En esa reu
 > **Creencia en juego:** que un invitado externo sin cuenta corporativa no pueda sumarse es una causa frecuente y costosa de salir de Teams (o de no colaborar en vivo).
 > **Nos equivocamos si:** las sesiones con externos son raras, o se resuelven sin costo (el externo ya tiene cuenta de invitado, la sesión se hace en la herramienta del cliente, o no hace falta que el externo edite).
 > *Si en W1 el participante dijo que no trabaja con externos:* salta esta sección y usa el tiempo en E1 y E2.
-> *Si el episodio con un externo ya salió antes (normalmente en Q3):* no lo vuelvas a pedir. Sigue con los sondeos de acceso sobre ese mismo episodio (quién lo gestionó, cuánto tardó) o pide uno distinto: "¿Y alguna otra vez con otro externo?".
+> *Si el episodio con un externo ya salió antes (normalmente en Q2 o Q3):* no lo vuelvas a pedir. Sigue con los sondeos de acceso sobre ese mismo episodio (quién lo gestionó, cuánto tardó) o pide uno distinto: "¿Y alguna otra vez con otro externo?".
 > *Si el acceso lo resolvió otra persona:* no pidas tiempos que no conoce. Pregunta "¿alguna vez no se pudo? ¿Qué pasó esa vez?". "¿Qué hiciste la vez siguiente?" va solo si hubo un fallo.
 
 Q4. Cuéntame de la última vez que alguien de fuera de tu empresa, un proveedor o un cliente, tenía que trabajar con ustedes en una reunión. ¿Cómo lo resolvieron?
@@ -86,7 +92,7 @@ Cierre: agradece y explica qué se hace con lo conversado (se usa para decidir e
 
 1. **Contradictores** — Q1 = Ninguna, Q3 = Nunca o Q8 = "lo usamos hasta terminar". Son los que más enseñan sobre E1 y E2.
 2. **Confirmadores con motivo variado** — Q3 ≠ Nunca, repartidos según el motivo principal de Q5. No más de 2 con el mismo motivo, para que E2 no escuche una sola causa.
-3. **Mezcla obligatoria** en ambos grupos: los dos canales (portal / in-product) y al menos la mitad con Q11 = "3 o más" países. Así, el sesgo del portal (los ya quejosos) no domina.
+3. **Mezcla obligatoria** en ambos grupos: los dos canales (portal / in-product) y al menos la mitad con Q11 = "3 o más" países. Entre los contradictores, al menos uno que trabaje en Teams por elección y al menos uno cuya organización bloquea las alternativas (Q6). Así, el sesgo del portal (los ya quejosos) no domina.
 
 **Screener (al agendar, por correo o formulario corto):**
 
@@ -136,3 +142,23 @@ Marina no cumple el perfil de cuenta (logística, 280 empleados). Sirve para pro
 **Sin probar:** la rama (b) de Q3, el sondeo de confianza y el sondeo sobre lo nativo en Q1 son nuevos y no se ejercitaron.
 
 **Límite:** ninguna de las dos personas abrió Whiteboard ni es contradictora. La guía no se probó con el perfil que más importa para E1.
+
+### 2026-09-23 — contra Agnieszka Wróbel (sintética, contradictora, en inglés)
+
+Agnieszka cumple el perfil de cuenta exacto y contradice la creencia: en la encuesta respondió Q3 = Nunca. Trabaja todo dentro de Teams porque Seguridad bloqueó Miro. Es el primer ensayo con el perfil que más importa para E1. Se usó la revisión 2, traducida sobre la marcha porque la guía no tenía versión en inglés.
+
+**Cambios aplicados (revisión 3):**
+
+- **I — El sondeo sobre lo nativo de Q1 ahora depende del episodio.** "¿Alguna vez intentaron hacer algo así dentro de Teams?" no tiene sentido si el episodio ya pasó en Teams ("It was inside Teams"). Si pasó dentro, se sondea ese mismo episodio: qué funcionó, qué no pudieron hacer y si es siempre así. Así apareció la lentitud con 12 personas escribiendo a la vez, que es justo la segunda mitad de E1.
+- **J — Se partió la rama de Whiteboard en Q3.** "¿La volvieron a usar?" supone abandono. Con quien usa Whiteboard cada semana, la pregunta no se entendió ("I don't understand the question"). Ahora se distingue entre uso habitual y abandono.
+- **K — Q3 (b) no repite el episodio de Q2.** El episodio fuera de Teams (el FigJam del cliente) salió en Q2 y Q3 lo volvió a pedir ("Like I said"). Además, si la sesión era de otra empresa, no se pregunta quién propuso la herramienta ("Their board, their rules"). Se actualizó la nota de E3: el externo puede salir en Q2 o en Q3.
+- **L — Sondeo nuevo en Q3 para cuando otra persona decidió o bloqueó la herramienta.** Lo más importante del ensayo salió recién en W2: "You didn't ask why we don't use Miro… Security blocked it". Sin este sondeo, una contradictora por prohibición se lee como contradictora por elección.
+- **M — Reclutamiento: los contradictores se separan por el motivo.** Se exige al menos uno por elección y uno con las alternativas bloqueadas. La encuesta sumó a Q6 la opción "nuestra organización las bloquea" (y a Q4, "la sesión la organizaba otra empresa") para poder distinguirlos.
+
+**Confirmado que funcionó:** la versión de Q1 para contradictores (trajo un episodio concreto sin empujarla hacia la reunión) y la nota de E3 para cuando el acceso lo resolvió otra persona ("Was there ever a time it didn't work?" trajo el episodio de solo lectura).
+
+**Sin probar:** los cambios I a L.
+
+**Descartado (decisión del equipo):** no se agrega una versión en inglés de la guía; el equipo no la considera necesaria. El entrevistador traduce sobre la marcha, como en este ensayo.
+
+**Límite:** es una sola contradictora, y sintética. El ensayo muestra que existe un tipo de contradictor que la guía no preveía (no sale de Teams porque tiene prohibido salir). No dice cuántos hay. Eso lo dirá Q6 de la encuesta.
