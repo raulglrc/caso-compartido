@@ -1,7 +1,7 @@
 ---
 opportunity: colaboracion-viva-en-reunion
 date: 2026-09-23
-status: ready
+status: voided
 ---
 
 # Encuesta: colaboración visual en vivo durante reuniones de Teams
