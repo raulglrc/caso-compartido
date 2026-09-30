@@ -3,6 +3,7 @@
 > "¿Para qué voy a pagar por asiento y depender de que alguien en una oficina me instale algo, si con un link de Meet ya estoy en la llamada?"
 
 - **Rol:** Consultor de marketing independiente, trabaja solo con 2-3 colaboradores freelance por proyecto
+- **Type:** negative
 - **Rango de edad:** 30–38
 - **Ubicación:** Medellín, Colombia
 - **Industria:** Servicios profesionales / freelance

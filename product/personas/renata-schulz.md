@@ -3,6 +3,7 @@
 > "A mí no me preguntan si las reuniones son buenas. Me preguntan por qué la factura de Microsoft subió otra vez."
 
 - **Rol:** IT Manager / administradora de Microsoft 365 en una aseguradora (1.400 empleados, cuenta Business Premium con algunas áreas en Max)
+- **Type:** tertiary
 - **Rango de edad:** 40–50
 - **Ubicación:** Ciudad de Panamá, Panamá
 - **Industria:** Seguros

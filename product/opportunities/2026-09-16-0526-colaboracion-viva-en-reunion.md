@@ -10,6 +10,15 @@ Los Team Leads de cuentas tech grandes y distribuidas (≥100 licencias, 3+ paí
 
 **Nota:** el pedido original llegó formulado como resultado + solución ("mejorar la colaboración e interacción en tiempo real... a través de herramientas colaborativas integradas"). Esa dirección de solución queda aparcada en "Ideas candidatas" al final; este brief trabaja el problema debajo.
 
+## Sub-oportunidades (reencuadre del 2026-09-30)
+
+La encuesta (n=210) y las 10 entrevistas reales mostraron que "salir de Teams para colaborar" no es un problema sino varios. Este brief queda como nodo padre y el trabajo sigue en dos ramas:
+
+- [decisiones-perdidas-en-reunion](2026-09-30-0323-decisiones-perdidas-en-reunion.md) — lo decidido se pierde entre la reunión y la ejecución (10 de 10 entrevistas; 24% sin registro). Rama prioritaria: de ella cuelgan las alternativas elegidas en [soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md).
+- [tablero-visual-en-reunion](2026-09-30-0323-tablero-visual-en-reunion.md) — el tablero creado para la reunión no sobrevive ni sostiene al grupo en Teams (34% de las reuniones que salen; 43% dejó Whiteboard).
+- **Posible rama, sin encuadrar:** participación en lo compartido — alguien se queda mirando o dictándole al que tiene el mouse (6 de 10 entrevistas; 46% de las reuniones internas con alguien afuera). Se encuadra si las dos ramas anteriores no la absorben.
+- **No es rama:** trabajar sobre artefactos que ya viven afuera (74% en Docs, Jira, dashboards) es una causa de la salida, no un dolor que los usuarios reporten; queda como contexto.
+
 ## Segmento y personas
 
 - **Segmento exacto:** cuentas Business Premium, ≥100 licencias, sector tecnología, operación en 3 o más países, facturación >USD100M/año. 12.400 cuentas, 2,1M licencias. Equipos distribuidos, remoto/híbrido. Convocan y conducen las reuniones Team Leads y mandos medios. Upgrade Premium→Max en los últimos 12 meses en este segmento: 3,1% de las cuentas.
@@ -62,8 +71,10 @@ Registradas en `product/overview.md` como pendientes de aprobación (ver secció
 
 ## Ideas candidatas (no evaluadas)
 
-- "Herramientas colaborativas integradas" en general — la dirección de solución con la que llegó el pedido original.
-- Acceso de invitados externos a Whiteboard/salas sin necesidad de cuenta corporativa (link de invitado, al estilo Miro).
-- Documento editable en vivo, en varias manos, sin salir de la llamada de Teams.
-- Votación o priorización en vivo integrada a la reunión.
-- Rediseño de descubribilidad/onboarding de Whiteboard y salas para reducir el abandono en los primeros 2 minutos.
+Evaluadas el 2026-09-30 en [soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md): se eligieron para probar en paralelo `recap-decisiones-confirmable` (A1, nueva) y `ritual-cierre` (A5).
+
+- "Herramientas colaborativas integradas" en general — la dirección de solución con la que llegó el pedido original. — **parked** ([soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md)): se dividió en A3 (construir, `whiteboard-persistente`) y A4 (integrar, `artefacto-en-reunion`), ambas aparcadas.
+- Acceso de invitados externos a Whiteboard/salas sin necesidad de cuenta corporativa (link de invitado, al estilo Miro). — **parked** ([soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md)): problema de otro segmento (externos en el 21% de las reuniones, "una vez al mes").
+- Documento editable en vivo, en varias manos, sin salir de la llamada de Teams. — **parked** ([soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md)): fusionada en A4 `artefacto-en-reunion` (el 74% de esos documentos ya existe afuera).
+- Votación o priorización en vivo integrada a la reunión. — **parked** ([soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md)): fusionada en A2 `cierre-explicito` (votar ordena pero no decide); vuelve si el piloto de A5 sale bien.
+- Rediseño de descubribilidad/onboarding de Whiteboard y salas para reducir el abandono en los primeros 2 minutos. — **chosen, reorientada** ([soluciones](../solutions/2026-09-30-0314-colaboracion-viva-en-reunion.md)): fusionada en A5 `ritual-cierre`, apuntando a notas de Loop y apps (Whiteboard tiene un problema de "no me sirve", no de descubribilidad).

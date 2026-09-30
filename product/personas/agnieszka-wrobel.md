@@ -33,3 +33,14 @@
 ## Device preferences
 
 Laptop Windows corporativa con doble monitor, conectada por VPN y proxy corporativo; nunca conduce reuniones desde el celular. Usa Teams de escritorio; el navegador solo para entrar a herramientas de clientes.
+
+## Evidencia real que la respalda
+
+Agregado el 2026-09-30 por `/derive-personas`. Agnieszka sigue siendo sintética; esta sección registra qué de ella ya se observó en una persona real. Fuente: product/interviews/2026-09-25-1600-lucia-fernandez.md (real, Engineering Manager en una plataforma de pagos B2B, España) y 5 menciones espontáneas de compliance en la encuesta (product/insights/2026-09-30-0205-colaboracion-en-vivo-fuera-de-teams.md, direccional).
+
+- **Lo nativo como única opción, por compliance** — validado: *"Por compliance, cualquier herramienta externa con datos de clientes está prohibida… lo nativo es lo único que tengo. Necesito que funcione mejor, no que me digan que hay otra cosa fuera."* Aprobar una herramienta nueva "son meses: seguridad, legal, el DPO, proveedores".
+- **La pizarra se pone lenta y priorizar se estira** — validado: agrupar 15 a 20 notas le llevó casi diez minutos; votó contando reacciones *"con la mitad sin cámara… no te fías del todo del número"*.
+- **Lo hecho en la reunión queda atado a esa convocatoria y se pierde** — validado: *"Queda atada al chat de esa reunión, y como la segunda sesión fue una convocatoria nueva, pues ahí no aparecía."* Desde entonces pega una captura en Confluence. Costo: una incidencia de un banco sin dueño durante una semana.
+- **El registro que importa es el que revisa Auditoría** — validado: *"El correo es lo que auditoría revisa. Si está en el correo, existe."*
+- **No observado en Lucía:** la presión de clientes que trabajan en su propio FigJam, ni la molestia de que la vean como "la que no usa herramientas modernas".
+

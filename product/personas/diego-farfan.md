@@ -3,6 +3,7 @@
 > "Yo no convoco reuniones, las sufro. Lo que quiero es entrar, enterarme de lo que me toca, y salir."
 
 - **Rol:** Analista de Compras Jr. en una cadena de retail (600 empleados, cuenta Microsoft 365 Business Standard)
+- **Type:** secondary
 - **Rango de edad:** 24–29
 - **Ubicación:** Ciudad de México, México (100% remoto)
 - **Industria:** Retail
