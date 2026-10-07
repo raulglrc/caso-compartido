@@ -2,6 +2,7 @@
 opportunity: decisiones-perdidas-en-reunion
 status: testing-several
 chosen: acuse-de-compromiso, escriba-rotativo
+tests: product/tests/2026-10-07-0151-decisiones-perdidas-en-reunion.md
 ---
 
 # Soluciones para: Las decisiones de la reunión se pierden antes de llegar a la ejecución
@@ -61,8 +62,8 @@ Ninguna llega a `strong` en deseable: el primer set ya se llevó el mecanismo co
 
 **Elegido por el usuario (2026-09-30): B1 y B4 en paralelo** (`testing-several`). Difiere de la recomendación en B4: se prueba ya, en vez de esperar al resultado de A5.
 
-- **Prueba de B1 — dentro del prototipo "de mago" de A1:** después de que el líder confirma las decisiones, cada responsable recibe su compromiso (qué, para cuándo, por qué) y se le pide confirmar o corregir. Se mide el % que responde en <24 h y el % que corrige algo. Resuelve `[feature: acuse-de-compromiso] [value]`.
-- **Prueba de B4 — como segundo brazo del piloto de 4 semanas de A5:** la mitad de los líderes cierra ellos mismos (A5); la otra mitad designa un escriba rotativo que anota en las notas de la serie. Se mide en qué % de reuniones el líder reescribe el registro y si las decisiones se retoman en la reunión siguiente. Resuelve `[feature: escriba-rotativo] [value]` y compara directamente con A5.
+- **Prueba de B1:** diseñada en [product/tests/2026-10-07-0151-decisiones-perdidas-en-reunion.md](../tests/2026-10-07-0151-decisiones-perdidas-en-reunion.md) como T3 (dentro de T1).
+- **Prueba de B4:** diseñada en [product/tests/2026-10-07-0151-decisiones-perdidas-en-reunion.md](../tests/2026-10-07-0151-decisiones-perdidas-en-reunion.md) como T5 (segundo brazo de T4, 2 semanas).
 
 **Qué cambiaría la decisión:** si el brazo de B4 muestra que el líder reescribe igual lo que anotó el escriba, B4 se descarta y A5 queda sola; si B1 muestra baja respuesta de los responsables, se descarta sin costo; si la telemetría muestra muchos artefactos huérfanos, sube B2.
 
